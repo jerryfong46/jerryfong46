@@ -1,0 +1,11 @@
+selenium
+beautifulsoup4
+webdriver-manager
+pandas
+numpy
+boto3
+psycopg2-binary
+apscheduler
+pyyaml
+retrying
+tqdm
